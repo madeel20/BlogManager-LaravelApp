@@ -1,9 +1,3 @@
-# LSAPP - Laravel From Scratch App
+Blog Manager - Laravel App
 
-This is the source code for the "Laravel From Scratch" Youtube series by Traversy media. It is a website with a blog application. It also includes full authentication and file uploading.
-
-## Version
-1.0.0
-
-## Database
-The sql dump is in _SQL/lsapp.sql
+Simple Blog where user can log in and register them self. And then add ,edit and delete posts. The added Posts will be displayed to all the visitors.
